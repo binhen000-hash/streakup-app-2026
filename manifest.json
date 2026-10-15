@@ -1,0 +1,10 @@
+{
+  "name": "StreakUp — Chuỗi học tập & thói quen",
+  "short_name": "StreakUp",
+  "description": "Giữ chuỗi học tập và thói quen mỗi ngày",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#100f1e",
+  "theme_color": "#17152b",
+  "icons": []
+}
